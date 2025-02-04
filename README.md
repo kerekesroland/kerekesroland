@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Roland
-- 👀 I’m interested in Web and Android development
-- 🌱 I’m currently learning NextJs and AWS
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning NestJs and AWS
 - 📫 How to reach me https://www.linkedin.com/in/roland-kerekes-4412b6211/
 
 <!---
